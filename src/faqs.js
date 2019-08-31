@@ -2,11 +2,9 @@ import React from 'react'
 import { Container, Row, Col, Card } from 'react-bootstrap';
 class FAQs extends React.Component {
   render() {
-    return (<div className="wrapper bg-dark" style={{ height: "100%"}}>
-
-
-    <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '70%'}}>
-      <Card className="wrapper bg-light" style={{ width: "70%" }}>
+    return (  <div className="wrapper bg-light">
+        <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '70%'}}>
+          <Card style={{ width: "70%", boxShadow: "2px 2px #D3D3D3", elevation: '0' }}>
     <Card.Body>
       <h1 style={{textAlign:'center'}}>FAQs</h1>
         <Container style = {{width: "80%",  justifyContent:'space-between'}}>
