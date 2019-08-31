@@ -18,7 +18,7 @@ class FAQs extends React.Component {
         </Row>
         <Row>
           <h3>Do I have to attend a Fireside Chat?</h3>
-          <p>The Fireside chat is mandatory and it is meant to help you with your understanding of the companies in attendance, your networking skills, what to wear, what to talk about with companies, and many more (plus there's free food!). You will also have the opportunity to ask questions of your own. Although the Fireside Chat is mandatory, if you believe you should be exempt from attending (because you have attended the Fireside Chat for the past two years, for example), please email TODO explaining why you should be exempt from attending the Fireside Chat. The Co-Next planning committee will review your case and email you back. </p>
+          <p>The Fireside chat is mandatory and it is meant to help you with your understanding of the companies in attendance, your networking skills, what to wear, what to talk about with companies, and many more (plus there's free food!). You will also have the opportunity to ask questions of your own. Although the Fireside Chat is mandatory, if you believe you should be exempt from attending (because you have attended the Fireside Chat for the past two years, for example), please email conext2019reg@gmail.com explaining why you should be exempt from attending the Fireside Chat. The Co-Next planning committee will review your case and email you back. </p>
           <p> TODO: add Fireside Chat date, time, locations and email for questions</p>
         </Row>
         <Row>
@@ -31,13 +31,17 @@ class FAQs extends React.Component {
         </Row>
         <Row>
           <h3>Do I have to make a resume?</h3>
-          <p>Yes, you must submit your resume to TODO when you register for Co-Next. We will compile a resume book of all attendees to hand out to the companies. Thus, when you approach companies during the event, you do not need to hand in your resume since they already have yours on file. Instructions are included on the Registration page</p>
+          <p>Yes, you must submit your resume via the 'Registration' tab when you register for Co-Next. We will compile a resume book of all attendees to hand out to the companies. Thus, when you approach companies during the event, you do not need to hand in your resume since they already have yours on file. Instructions are included on the 'Registration' page</p>
         </Row>
         <Row>
           <h3>What networking or job opportunities will be available at Co-Next?</h3>
           <p>It depends on the company, but all companies will be looking for candidates in full-time positions as well as internship positions. You may ask the company then what kind of jobs they have to offer, but it may be a good idea to research the company beforehand.</p>
+
+              <p> More questions? Ask via the Contact tab or email conext2019reg@gmail.com.</p>
         </Row>
+
       </Container>
+
     </Card.Body>
   </Card>
   </div>

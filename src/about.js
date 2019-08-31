@@ -10,16 +10,13 @@ class About extends React.Component {
     <Card.Body>
       <Card.Title>About Co-Next 2019</Card.Title>
       <Card.Text>
-        Co-Next is a recruiting and networking event that connects women and those holding feminine identities in all disciplines and of all ages at the University of Michigan with the leading companies in the world.  At the event, you have the opportunity to speak to women leaders from top companies across the US.
-      </Card.Text>
-      <Card.Text>
-Co-Next has successfully placed the next generation of women business leaders at firms in marketing, accounting, strategy consulting, finance and more.  It's not only an event that can help secure you a job, but also a chance for you to make personal connections with industry leaders.
+        Co-Next is a recruiting and networking event that connects University of Michigan students holding feminine identities in all disciplines and of all ages with top firms in marketing, accounting, strategy consulting, finance, and more.  At the event, attendees have the opportunity to speak to and make personal connections with women leaders from top companies across the US.
       </Card.Text>
 
-<Card.Title>How to Attend Co-Next</Card.Title>
+<Card.Title>Attending Co-Next</Card.Title>
 
       <Card.Text>
-      <p>Interested in attending Co-Next? If you're free for the date listed above, and interested in learning more about being a women in business or networking with top companies, follow the below steps.</p>
+      <p>Interested in attending Co-Next? If you're interested in learning more about being a women in business or networking with top companies, follow these steps.</p>
 
       <p>(1) Register! Submit your PDF resume and sign up for a mandatory Fireside Chat via the Registration button below. For advice on creating your resume, visit the "Resume Tips" tab.</p>
 
@@ -28,6 +25,8 @@ Co-Next has successfully placed the next generation of women business leaders at
       <p>(3) Co-Next! </p>
       </Card.Text>
       <Button variant="dark" href="/registration">Registration</Button>
+      <p></p>
+        <Card.Text> Questions? Ask via the Contact tab or email conext2019reg@gmail.com.</Card.Text>
     </Card.Body>
   </Card>
   </div>
