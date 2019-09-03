@@ -17,11 +17,6 @@ render() {
 
                     <Nav.Link as={Link} to="/companies">Companies</Nav.Link>
                     <Nav.Link as={Link} to="/registration">Registration</Nav.Link>
-                    <NavDropdown title="Resume Tips" id="basic-nav-dropdown">
-                      <NavDropdown.Item href="#action/3.1">Tips and Tricks</NavDropdown.Item>
-                      <NavDropdown.Item href="#action/3.2">Resume Samples</NavDropdown.Item>
-                      <NavDropdown.Item href="#action/3.3">Additional Resources</NavDropdown.Item>
-                    </NavDropdown>
                     <Nav.Link as={Link} to="/faqs">FAQs</Nav.Link>
                     <Nav.Link as={Link} to="/contact">Contact</Nav.Link>
                   </Nav>

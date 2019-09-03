@@ -18,7 +18,7 @@ class About extends React.Component {
       <Card.Text>
       <p>Interested in attending Co-Next? If you're interested in learning more about being a women in business or networking with top companies, follow these steps.</p>
 
-      <p>(1) Register! Submit your PDF resume and sign up for a mandatory Fireside Chat via the Registration button below. For advice on creating your resume, visit the "Resume Tips" tab.</p>
+      <p>(1) Register! Submit your PDF resume and sign up for a mandatory Fireside Chat via the Registration button below.</p>
 
       <p>(2) Prepare! Attend one of the Mandatory Fireside Chats. Prepare any questions you might have for companies or the Co-Next committee.</p>
 
@@ -26,7 +26,7 @@ class About extends React.Component {
       </Card.Text>
       <Button variant="dark" href="/registration">Registration</Button>
       <p></p>
-        <Card.Text> Questions? Ask via the Contact tab or email conext2019reg@gmail.com.</Card.Text>
+        <Card.Text> Questions? Email conext2019reg@gmail.com.</Card.Text>
     </Card.Body>
   </Card>
   </div>

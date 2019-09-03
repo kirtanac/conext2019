@@ -37,7 +37,7 @@ class FAQs extends React.Component {
           <h3>What networking or job opportunities will be available at Co-Next?</h3>
           <p>It depends on the company, but all companies will be looking for candidates in full-time positions as well as internship positions. You may ask the company then what kind of jobs they have to offer, but it may be a good idea to research the company beforehand.</p>
 
-              <p> More questions? Ask via the Contact tab or email conext2019reg@gmail.com.</p>
+              <p> More questions? Email conext2019reg@gmail.com.</p>
         </Row>
 
       </Container>

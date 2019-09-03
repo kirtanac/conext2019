@@ -15,7 +15,7 @@ class Registration extends React.Component {
 
       <Button variant="dark" href="https://forms.gle/Gfm4ZkBXAuehoYeAA">Registration</Button>
         <p></p>
-          <p> Questions? Ask via the Contact tab or email conext2019reg@gmail.com.</p>
+          <p> Questions? Email conext2019reg@gmail.com.</p>
       </Card.Body>
       </Card>
       </div>

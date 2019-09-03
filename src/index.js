@@ -9,7 +9,6 @@ import Companies from './companies';
 import Contact from './contact';
 import FAQs from './faqs';
 import Registration from './registration';
-import ResumeTips from './resumetips';
 import Notfound from './notfound';
 import NavigationBar from './navigationbar';
 import * as serviceWorker from './serviceWorker';
@@ -26,7 +25,6 @@ const routing = (
         <Route exact path="/contact" component={Contact} />
         <Route exact path="/faqs" component={FAQs} />
         <Route exact path="/registration" component={Registration} />
-        <Route exact path="/resumetips" component={ResumeTips} />
         <Route component={Notfound} />
       </Switch>
     </div>
