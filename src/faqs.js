@@ -19,7 +19,13 @@ class FAQs extends React.Component {
         <Row>
           <Card.Title>Do I have to attend a Fireside Chat?</Card.Title>
           <p>The Fireside chat is mandatory and it is meant to help you with your understanding of the companies in attendance, your networking skills, what to wear, what to talk about with companies, and many more (plus there's free food!). You will also have the opportunity to ask questions of your own. Although the Fireside Chat is mandatory, if you believe you should be exempt from attending (because you have attended the Fireside Chat for the past two years, for example), please email conext2019reg@gmail.com explaining why you should be exempt from attending the Fireside Chat. The Co-Next planning committee will review your case and email you back. </p>
-          <p> TODO: add Fireside Chat date, time, locations and email for questions</p>
+          <div><p> Fireside Chats:</p></div>
+          </Row>
+          <Row>
+          <div>
+          <p>Session I: Monday, September 16th • 5:30 - 7:00 PM • B1580</p>
+            <p>Session II: Tuesday, September 17th • 5:30 - 7:00 PM • B1580</p>
+          </div>
         </Row>
         <Row>
           <Card.Title>What should I wear to Co-Next and to the Fireside Chats?</Card.Title>
