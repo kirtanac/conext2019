@@ -6,7 +6,7 @@ class About extends React.Component {
       <div className="wrapper bg-light">
     <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '70%'}}>
       <Card style={{ width: "70%", boxShadow: "2px 2px #D3D3D3", elevation: '0' }}>
-    <Card.Img style={{elevation: '0' }} src="/Co-Next 2019.png" />
+    <Card.Img style={{elevation: '0' }} src="/longdesign.png" />
     <Card.Body>
       <Card.Title>About Co-Next 2019</Card.Title>
       <Card.Text>

@@ -10,7 +10,7 @@ class Registration extends React.Component {
         <Card.Body>
       <h1>Registration</h1>
       <p>To register for Co-Next, you must complete the registration form below. This will require submission of a resume and signing up to attend a mandatory Fireside Chat. The deadline is September 12th, at 11:59 pm. Please retain the email sent after submission for your records.</p>
-<h3>Resume Format:</h3>
+<Card.Title>Resume Format:</Card.Title>
 <p> Submit your PDF resume to the registration form below named "[Lastname]_[Firstname]_[GraduationYear]" Example: Smith_Jane_2020 (or it will not be included in the resume book) For advice on creating your resume, visit the "Resume Tips" tab. </p>
 
       <Button variant="dark" href="https://forms.gle/Gfm4ZkBXAuehoYeAA">Registration</Button>
