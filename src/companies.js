@@ -26,6 +26,9 @@ class Companies extends React.Component {
         </Row>
 
         <Row style = {{ justifyContent:'space-between', marginTop: 14}}>
+          <Card style={{ width: "30%", boxShadow: "2px 2px #D3D3D3", elevation: '0' }}>
+        <Card.Img style={{elevation: '0' }} src="/company_logos/BCG.png" />
+        </Card>
 
         <Card style={{ width: "30%", boxShadow: "2px 2px #D3D3D3", elevation: '0' }}>
       <Card.Img style={{elevation: '0' }} src="/company_logos/capital1.jpeg" />
@@ -35,14 +38,15 @@ class Companies extends React.Component {
     <Card.Img style={{elevation: '0' }} src="/company_logos/cardinalhealthlogo1.jpg" />
     </Card>
 
-    <Card style={{ width: "30%", boxShadow: "2px 2px #D3D3D3", elevation: '0' }}>
-  <Card.Img style={{elevation: '0' }} src="/company_logos/GCMgrosvenor.png" />
-  </Card>
 
 
         </Row>
 
       <Row style = {{ justifyContent:'space-between', marginTop: 14}}>
+
+            <Card style={{ width: "30%", boxShadow: "2px 2px #D3D3D3", elevation: '0' }}>
+          <Card.Img style={{elevation: '0' }} src="/company_logos/GCMgrosvenor.png" />
+          </Card>
 
           <Card style={{ width: "30%", boxShadow: "2px 2px #D3D3D3", elevation: '0' }}>
         <Card.Img style={{elevation: '0' }} src="/company_logos/kpmg.png" />
@@ -52,13 +56,15 @@ class Companies extends React.Component {
       <Card.Img style={{elevation: '0' }} src="/company_logos/mizuho.png" />
       </Card>
 
-      <Card style={{ width: "30%", boxShadow: "2px 2px #D3D3D3", elevation: '0' }}>
-    <Card.Img style={{elevation: '0' }} src="/company_logos/salesforce.png" />
-    </Card>
+
 
         </Row>
 
   <Row style = {{ justifyContent:'space-between', marginTop: 14, alignItems:'center'}}>
+
+    <Card style={{ width: "30%", boxShadow: "2px 2px #D3D3D3", elevation: '0' }}>
+  <Card.Img style={{elevation: '0' }} src="/company_logos/salesforce.png" />
+  </Card>
 
         <Card style={{ width: "30%", boxShadow: "2px 2px #D3D3D3", elevation: '0' }}>
       <Card.Img style={{elevation: '0' }} src="/company_logos/walgreens.png" />
