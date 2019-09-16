@@ -8,13 +8,12 @@ class Registration extends React.Component {
         <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '70%'}}>
           <Card style={{ width: "70%", boxShadow: "2px 2px #D3D3D3", elevation: '0' }}>
         <Card.Body>
-      <h1>Registration</h1>
-      <p>To register for Co-Next, you must complete the registration form below. This will require submission of a resume and signing up to attend a mandatory Fireside Chat. The deadline is Sunday, September 15th, at 11:59 pm. Please retain the email sent after submission for your records.</p>
-<Card.Title>Resume Format:</Card.Title>
-<p> Submit your PDF resume to the registration form below named "[Lastname]_[Firstname]_[GraduationYear]" Example: Smith_Jane_2020 (or it will not be included in the resume book).</p>
+            <h1>Registration</h1>
+              <p>Please register via the Late Registration form below. Your resume will not be included in the resume book as resume submission closed Sunday, September 15th, at 11:59 pm. Please retain the email sent after submission for your records.</p>
 
-      <Button variant="dark" href="https://forms.gle/Gfm4ZkBXAuehoYeAA">Registration</Button>
-        <p></p>
+          <Button variant="dark" href="https://forms.gle/C66kLk4F56AEbNRx5">Late Registration</Button>
+            <p></p>
+
           <p> Questions? Email conext2019reg@gmail.com.</p>
       </Card.Body>
       </Card>
