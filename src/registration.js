@@ -14,7 +14,7 @@ class Registration extends React.Component {
           <Button variant="dark" href="https://forms.gle/C66kLk4F56AEbNRx5">Late Registration</Button>
             <p></p>
 
-          <p> Questions? Email conext2019reg@gmail.com.</p>
+          <p> Questions? Email conext2020reg@gmail.com.</p>
       </Card.Body>
       </Card>
       </div>

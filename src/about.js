@@ -9,6 +9,7 @@ class About extends React.Component {
     <Card.Img style={{elevation: '0' }} src="/longdesign.png" />
     <Card.Body>
       <Card.Title>About Co-Next 2019</Card.Title>
+      <Card.Title>Not about Co-Next 2019</Card.Title>
       <Card.Text>
         Co-Next is a recruiting and networking event that connects University of Michigan students holding feminine identities in all disciplines and of all ages with top firms in marketing, accounting, strategy consulting, finance, and more.  At the event, attendees have the opportunity to speak to and make personal connections with women leaders from top companies across the US.
       </Card.Text>
@@ -22,11 +23,11 @@ class About extends React.Component {
 
       <p>(2) Prepare! Attend one of the Mandatory Fireside Chats. Prepare any questions you might have for companies or the Co-Next committee.</p>
 
-      <p>(3) Co-Next! </p>
+      <p>(3) Co-Next </p>
       </Card.Text>
-      <Button variant="dark" href="/registration">Registration</Button>
+      <Button variant="dark" href="/faqs">FAQS</Button>
       <p></p>
-        <Card.Text> Questions? Email conext2019reg@gmail.com.</Card.Text>
+        <Card.Text> Questions? Email conext2020reg@gmail.com.</Card.Text>
     </Card.Body>
   </Card>
   </div>
