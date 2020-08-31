@@ -18,13 +18,13 @@ class FAQs extends React.Component {
         </Row>
         <Row>
           <Card.Title>Do I have to attend a Fireside Chat?</Card.Title>
-          <p>The Fireside chat is mandatory and it is meant to help you with your understanding of the companies in attendance, your networking skills, what to wear, what to talk about with companies, and many more (plus there's free food!). You will also have the opportunity to ask questions of your own. Although the Fireside Chat is mandatory, if you believe you should be exempt from attending (because you have attended the Fireside Chat for the past two years, for example), please email conext2020reg@gmail.com explaining why you should be exempt from attending the Fireside Chat. The Co-Next planning committee will review your case and email you back. </p>
-          <div><p> Fireside Chats:</p></div>
+          <p>The Fireside chat is mandatory and it is meant to help you with your understanding of the companies in attendance, your networking skills, what to wear, what to talk about with companies, and many more (plus there's free food!). You will also have the opportunity to ask questions of your own. Although the Fireside Chat is mandatory, if you believe you should be exempt from attending (because you have attended the Fireside Chat for the past two years, for example), please email conext2020@gmail.com explaining why you should be exempt from attending the Fireside Chat. The Co-Next planning committee will review your case and email you back. </p>
+          <div><p> Fireside Chats (link to virtual event will follow in confirmation email):</p></div>
           </Row>
           <Row>
           <div>
-          <p>Session I: Monday, September 16th • 5:30 - 7:00 PM • B1580</p>
-            <p>Session II: Tuesday, September 17th • 5:30 - 7:00 PM • B1580</p>
+          <p>Session I: Tuesday, September 8th • 5:00 - 6:00 PM </p>
+            <p>Session II: Wednesday, September 9th • 5:00 - 6:00 PM </p>
           </div>
         </Row>
         <Row>
@@ -43,7 +43,7 @@ class FAQs extends React.Component {
           <Card.Title>What networking or job opportunities will be available at Co-Next?</Card.Title>
           <p>It depends on the company, but all companies will be looking for candidates in full-time positions as well as internship positions. You may ask the company then what kind of jobs they have to offer, but it may be a good idea to research the company beforehand.</p>
 
-              <p> More questions? Email conext2020reg@gmail.com.</p>
+              <p> More questions? Email conext2020@gmail.com.</p>
         </Row>
 
       </Container>

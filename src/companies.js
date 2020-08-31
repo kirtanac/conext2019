@@ -10,27 +10,34 @@ class Companies extends React.Component {
     <Card.Body>
       <h1 style={{textAlign:'center'}}>Companies</h1>
         <Container style = {{width: "70%",  justifyContent:'space-between'}}>
-      <Row style = {{ justifyContent:'space-between', marginTop: 14}}>
-          <Card style={{ width: "30%", boxShadow: "2px 2px #D3D3D3", elevation: '0' }}>
-        <Card.Img style={{elevation: '0' }} src="/company_logos/AB.png" />
-        </Card>
 
-        <Card style={{ width: "30%", boxShadow: "2px 2px #D3D3D3", elevation: '0' }}>
-      <Card.Img style={{elevation: '0' }} src="/company_logos/amex.png" />
-      </Card>
+      <Row style = {{ justifyContent:'space-between', marginTop: 14}}>
 
       <Card style={{ width: "30%", boxShadow: "2px 2px #D3D3D3", elevation: '0' }}>
-    <Card.Img style={{elevation: '0' }} src="/company_logos/blackrock.jpg" />
+    <Card.Img style={{elevation: '0' }} src="/company_logos/capital1.jpeg" />
+    </Card>
+
+    <Card style={{ width: "30%", boxShadow: "2px 2px #D3D3D3", elevation: '0' }}>
+  <Card.Img style={{elevation: '0' }} src="/company_logos/GCMgrosvenor.png" />
+  </Card>
+
+      <Card style={{ width: "30%", boxShadow: "2px 2px #D3D3D3", elevation: '0' }}>
+    <Card.Img style={{elevation: '0' }} src="/company_logos/kraft.png" />
     </Card>
 
         </Row>
 
         <Row style = {{ justifyContent:'space-between', marginTop: 14}}>
           <Card style={{ width: "30%", boxShadow: "2px 2px #D3D3D3", elevation: '0' }}>
-        <Card.Img style={{elevation: '0' }} src="/company_logos/BCG.png" />
+        <Card.Img style={{elevation: '0' }} src="/company_logos/ms2.png" />
         </Card>
 
-        <Card style={{ width: "30%", boxShadow: "2px 2px #D3D3D3", elevation: '0' }}>
+
+        </Row>
+
+
+
+{/*        <Card style={{ width: "30%", boxShadow: "2px 2px #D3D3D3", elevation: '0' }}>
       <Card.Img style={{elevation: '0' }} src="/company_logos/capital1.jpeg" />
       </Card>
 
@@ -73,6 +80,7 @@ class Companies extends React.Component {
     </Card>
 
         </Row>
+        */}
       </Container>
     </Card.Body>
   </Card>
